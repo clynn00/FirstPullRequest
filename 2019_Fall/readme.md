@@ -1,5 +1,5 @@
 # Task
-Submit a Pull Request to this file, checking off your name, and adding your GitHub username. Feel free to add some :rocket: emoji as well :smiley: ! 
+Submit a Pull Request to this file, checking off your name, adding your GitHub username, and put your favorite animal emoji next to your name. Feel free to add some :rocket: emoji as well :smiley: ! 
 
 ## Formatting
 This is a Markdown document (note the .md file name), so you'll need to use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists). 
@@ -80,7 +80,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Louth, Brittany
 
-- [ ] Lynn, Cindy
+- [X] Lynn, Cindy (clynn00) :dog:
 
 - [ ] McGrath, Allyse
 
