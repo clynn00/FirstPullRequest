@@ -1,5 +1,5 @@
 # Task
-Submit a Pull Request to this file, checking off your name, adding your GitHub username, and put your favorite animal emoji next to your name. Feel free to add some :rocket: emoji as well :smiley: ! 
+Submit a Pull Request to this file, checking off your name, adding your GitHub username, and put your favorite animal emoji next to your name. Add where you interned this summer after the animal emoji, and add your % likelihood of losing power in the PG&E blackout starting on the 9th after that. Feel free to add some :rocket: emoji as well :smiley: ! 
 
 ## Formatting
 This is a Markdown document (note the .md file name), so you'll need to use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists). 
@@ -64,7 +64,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kawatra, Aanchal
 
-- [X] Kim, Maxwell (@mkim20) :dog2:
+- [X] Kim, Maxwell (@mkim20) :dog2: Doximity, 5%
 
 - [ ] Kochevar, Michael
 
